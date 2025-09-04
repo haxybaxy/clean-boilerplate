@@ -1,4 +1,4 @@
-# Cleanish SAAS Boilerplate 
+# Clean Boilerplate 
 ## Tech Stack
 
 - **Framework**: Next.js 15 with App Router
